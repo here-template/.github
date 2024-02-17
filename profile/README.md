@@ -7,7 +7,7 @@ We provide a variety of templates to help developers kickstart their projects ac
 ## Projects
 
 - [Minecraft Bukkit](https://github.com/here-template/Minecraft-Bukkit)
-- Minecraft Mod [WIP]
+- Minecraft Neoforge Mod [WIP]
 - [Discord Bot](https://github.com/here-template/Bot-Discord)
 - Website (EJS Express) [WIP]
 
