@@ -12,5 +12,7 @@ All of our project are under MIT licence !
 - Minecraft Neoforge Mod [WIP]
 - [Discord Bot](https://github.com/here-template/Bot-Discord)
 - Website (EJS Express) [WIP]
+- Website (Vue.js single page router) [WIP]
+- Website (Nuxt.js) [WIP]
 
 Feel free to explore our templates and contribute to our open-source projects. Happy coding! 🚀
