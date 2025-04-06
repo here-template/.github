@@ -8,11 +8,11 @@ All of our project are under MIT licence !
 
 ## Projects
 
-- [Minecraft Bukkit](https://github.com/here-template/Minecraft-Bukkit)
-- Minecraft Neoforge Mod [WIP]
+- [Minecraft Bukkit](https://github.com/here-template/Minecraft-Bukkit) [Not maintained]
+- Minecraft Neoforge Mod [Discontinued]
 - [Discord Bot](https://github.com/here-template/Bot-Discord)
 - Website (EJS Express) [WIP]
-- Website (Vue.js single page router) [WIP]
 - Website (Nuxt.js) [WIP]
+- Website (Next.js) [WIP]
 
 Feel free to explore our templates and contribute to our open-source projects. Happy coding! 🚀
