@@ -12,8 +12,8 @@ All of our project are under MIT licence !
 - [Numworks App](https://github.com/here-template/Numworks-App)
 - Minecraft Neoforge Mod [Discontinued]
 - [Discord Bot](https://github.com/here-template/Bot-Discord)
-- Website (EJS Express) [WIP]
 - Website (Nuxt.js) [WIP]
-- Website (Next.js) [WIP]
+- Website (EJS Express) [NOT PLANNED]
+- Website (Next.js) [NOT PLANNED]
 
 Feel free to explore our templates and contribute to our open-source projects. Happy coding! 🚀
