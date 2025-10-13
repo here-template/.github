@@ -11,6 +11,7 @@ All of our project are under MIT licence !
 - [Minecraft Bukkit](https://github.com/here-template/Minecraft-Bukkit) [Not maintained]
 - [Numworks App](https://github.com/here-template/Numworks-App)
 - [Discord Bot](https://github.com/here-template/Bot-Discord)
+- Tauri App (Vue.js X Tailwind X i18n X Shadncn) [PLANNED]
 - Website (Nuxt.js) [WIP]
 - Website (EJS Express) [NOT PLANNED]
 - Website (Next.js) [NOT PLANNED]
