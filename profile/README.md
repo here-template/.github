@@ -9,6 +9,7 @@ All of our project are under MIT licence !
 ## Projects
 
 - [Minecraft Bukkit](https://github.com/here-template/Minecraft-Bukkit) [Not maintained]
+- [Numworks App](https://github.com/here-template/Numworks-App)
 - Minecraft Neoforge Mod [Discontinued]
 - [Discord Bot](https://github.com/here-template/Bot-Discord)
 - Website (EJS Express) [WIP]
