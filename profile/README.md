@@ -12,7 +12,7 @@ All of our project are under MIT licence !
 - [Numworks App](https://github.com/here-template/Numworks-App)
 - [Discord Bot](https://github.com/here-template/Bot-Discord)
 - Tauri App (Vue.js X Tailwind X i18n X Shadncn) [PLANNED]
-- Website (React X Elysia.js) [PLANNED]
+- [React X Elysia.js](https://github.com/here-template/React-X-Elysia)
 - Website (Vue.js X Elysia.js) [PLANNED]
 - Website (Nuxt.js) [PLANNED]
 - Website (EJS Express) [NOT PLANNED]
