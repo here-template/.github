@@ -11,7 +11,7 @@ All of our project are under MIT licence !
 
 [![Numworks App](https://img.shields.io/badge/Numworks_App-black?style=flat-square&logo=rust&logoColor=white)](https://github.com/here-template/Numworks-App) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 <br>
-[![React X Elysia](https://img.shields.io/badge/React_X_Elysia-black?style=flat-square&logo=react&logoColor=white)](https://github.com/here-template/React-X-Elysia) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+[![React X Elysia](https://img.shields.io/badge/React_X_Elysia-black?style=flat-square&logo=react&logoColor=white)](https://github.com/here-template/React-X-Elysia) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![DynFeatures](https://img.shields.io/badge/Dynamic%20features-2-blue?style=flat-square)
 <br>
 [![Discord Bot](https://img.shields.io/badge/Discord_Bot-black?style=flat-square&logo=discord&logoColor=white)](https://github.com/here-template/Bot-Discord) ![Status](https://img.shields.io/badge/Status-Need_Big_Rework-orange?style=flat-square)
 <br>
