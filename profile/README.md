@@ -13,7 +13,7 @@ All of our project are under MIT licence !
 <br>
 [![React X Elysia](https://img.shields.io/badge/React_X_Elysia-black?style=flat-square&logo=react&logoColor=white)](https://github.com/here-template/React-X-Elysia) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square) ![DynFeatures](https://img.shields.io/badge/Dynamic%20features-2-blue?style=flat-square)
 <br>
-![Vue X Elysia](https://img.shields.io/badge/Vue_X_Elysia-black?style=flat-square&logo=vuedotjs&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+[![Vue X Elysia](https://img.shields.io/badge/Vue_X_Elysia-black?style=flat-square&logo=vuedotjs&logoColor=white)](https://github.com/here-template/Vue-X-Elysia) ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 <br>
 [![Discord Bot](https://img.shields.io/badge/Discord_Bot-black?style=flat-square&logo=discord&logoColor=white)](https://github.com/here-template/Bot-Discord) ![Status](https://img.shields.io/badge/Status-Need_Big_Rework-orange?style=flat-square)
 <br>
